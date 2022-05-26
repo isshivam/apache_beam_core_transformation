@@ -1,3 +1,9 @@
 # apache_beam_core_transformation
 ### applied all core transformation
-1 ParDo
+* ParDo
+* Group By Key
+* Co Group By Key
+* Combine
+* Flatten
+* Partition
+___
