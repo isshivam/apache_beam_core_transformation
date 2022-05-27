@@ -9,3 +9,18 @@ ___
 * Flatten
 * Partition
 ___
+### Required Dependency
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.apache.beam/beam-sdks-java-core -->
+        <dependency>
+            <groupId>org.apache.beam</groupId>
+            <artifactId>beam-sdks-java-core</artifactId>
+            <version>2.38.0</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.beam/beam-runners-direct-java -->
+        <dependency>
+            <groupId>org.apache.beam</groupId>
+            <artifactId>beam-runners-direct-java</artifactId>
+            <version>2.38.0</version>
+        </dependency>
+    </dependencies>
